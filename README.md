@@ -5,4 +5,7 @@ If answer is not right, correct answer will shown on the screen.
 And if the answer is right the score counting will increase. 
 At the end your knowledge on this particular subject will be shown as High, Medium, Low.
 
-Contributors:- https://github.com/shreyajain70
+Contributors:- 
+Name:- Manthan Sahonta
+GithubProfile :- https://github.com/shreyajain70
+LinkedInPRofile:- https://www.linkedin.com/in/shreya-jain-877064216/
