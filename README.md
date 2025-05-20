@@ -6,6 +6,6 @@ And if the answer is right the score counting will increase.
 At the end your knowledge on this particular subject will be shown as High, Medium, Low.
 
 Contributors:- 
-Name:- Manthan Sahonta
+Name:- Shreya Jain
 GithubProfile :- https://github.com/shreyajain70
 LinkedInPRofile:- https://www.linkedin.com/in/shreya-jain-877064216/
